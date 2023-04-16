@@ -1,1 +1,1 @@
-# C-PROGRAMMING-ASSIGNMENT-DAY-1
+c-programming
